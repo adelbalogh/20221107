@@ -1,5 +1,3 @@
-﻿//string name = "Adél";
-
-string nev = "Katalin";
-
-Console.WriteLine($"{nev}");
+﻿string name = "Adél";
+string[] nevek = {"Katalin", };
+Console.WriteLine($"{name}");
