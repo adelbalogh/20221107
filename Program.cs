@@ -1,3 +1,5 @@
-﻿string name = "Adél"; 
+﻿//string name = "Adél";
 
-Console.WriteLine($"Hello, {name}!");
+string nev = "Katalin";
+
+Console.WriteLine($"{nev}");
